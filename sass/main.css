@@ -1,0 +1,15 @@
+:root {
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+}
+
+body {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+h1 {
+  background-color: #F1E4ED;
+  color: #114C5A;
+}
+/*# sourceMappingURL=main.css.map */
